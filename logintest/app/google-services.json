@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430825919724",
+    "firebase_url": "https://firetest-ebfd3.firebaseio.com",
+    "project_id": "firetest-ebfd3",
+    "storage_bucket": "firetest-ebfd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430825919724:android:6c8e66b14c05ec45",
+        "android_client_info": {
+          "package_name": "learncode.nj.com.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430825919724-9hhg5462aeajpcgo0hef2qakqlr21969.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learncode.nj.com.logintest",
+            "certificate_hash": "2ddb9b5f4cafc1a965af93738f3adae48f963297"
+          }
+        },
+        {
+          "client_id": "430825919724-rpb2fatkc3494gqtsn9p2nctbfg9pfon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN12Q5yOoB02TJCo0nYP0OjCmE3TL6wM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430825919724-rpb2fatkc3494gqtsn9p2nctbfg9pfon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
