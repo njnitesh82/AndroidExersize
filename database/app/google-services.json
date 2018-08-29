@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554517269623",
+    "firebase_url": "https://database-8197d.firebaseio.com",
+    "project_id": "database-8197d",
+    "storage_bucket": "database-8197d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554517269623:android:e4acfab75624576e",
+        "android_client_info": {
+          "package_name": "learncode.nj.com.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554517269623-fods8dlept2bkntqhq3fmkl82gau9gvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learncode.nj.com.database",
+            "certificate_hash": "2ddb9b5f4cafc1a965af93738f3adae48f963297"
+          }
+        },
+        {
+          "client_id": "554517269623-j9iehlfrjfntv9ito3fqrgp9it42d3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfMoBqpPj6ox1-I83w3khNlNK8im9nMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554517269623-j9iehlfrjfntv9ito3fqrgp9it42d3lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
