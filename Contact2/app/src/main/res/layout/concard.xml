@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="@color/colorAccent"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="101dp">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:text="N"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:background="@drawable/round_button" />
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingStart="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/text"
+        android:weightSum="5"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/fname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:scrollHorizontally="true"
+            android:text="Nitesh Kumar"
+            android:layout_weight="2"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:singleLine="true" />
+        <TextView
+            android:singleLine="true"
+            android:id="@+id/femail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="njnitesh82@gmail.com"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/fnumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8209723701"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"/>
+
+</RelativeLayout>
