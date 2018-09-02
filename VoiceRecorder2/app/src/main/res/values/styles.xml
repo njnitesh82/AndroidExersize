@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/greendark</item>
+        <item name="colorAccent">@color/bulec</item>
+    </style>
+
+
+
+    <style name="progress"
+        parent="">
+        <item name="colorAccent">@color/green</item>
+
+    </style>
+
+
+
+</resources>
